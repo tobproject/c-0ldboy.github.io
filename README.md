@@ -27,7 +27,7 @@ Here's where are all the projects i had developed.
         <div class="sidebar-wrapper">
             <div class="profile-container">
                 <img class="profile" src="assets/images/profile.png" alt="" />
-                <h1 class="name">Alan Doe</h1>
+                <h1 class="name">Andrés De Souza</h1>
                 <h3 class="tagline">Full Stack Developer</h3>
             </div><!--//profile-container-->
             
